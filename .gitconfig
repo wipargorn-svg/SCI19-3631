@@ -1,0 +1,5 @@
+[core]
+	autocrlf = true
+[user]
+	email = wipargorn@gmail.com
+	name = wipargorn-svg
